@@ -1,0 +1,8 @@
+{
+  "name": "rocket_nlw_projeto_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dustein/rocket_nlw_projeto_nodejs.git",
+  "author": "dustein <steindu@gmail.com>",
+  "license": "MIT"
+}
